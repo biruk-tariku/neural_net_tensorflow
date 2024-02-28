@@ -46,4 +46,3 @@ pred0 =predictions[0]
 print(pred0)
 label0 = np.argmax(pred0)
 print(label0)
-
